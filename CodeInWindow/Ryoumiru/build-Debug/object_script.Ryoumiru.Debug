@@ -1,0 +1,11 @@
+debug/btn_call.o
+debug/btn_elec.o
+debug/btn_spy.o
+debug/connect.o
+debug/main.o
+debug/mainwindow.o
+debug/udp_handshake.o
+debug/udp_thread.o
+debug/qrc_resource.o
+debug/moc_mainwindow.o
+debug/moc_udp_thread.o

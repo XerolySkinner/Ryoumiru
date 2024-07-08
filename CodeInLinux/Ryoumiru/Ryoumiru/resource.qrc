@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>res/lamp_off.png</file>
+        <file>res/lamp_on.png</file>
+    </qresource>
+</RCC>

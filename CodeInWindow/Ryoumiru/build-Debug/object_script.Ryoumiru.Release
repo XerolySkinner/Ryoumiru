@@ -1,0 +1,11 @@
+release/btn_call.o
+release/btn_elec.o
+release/btn_spy.o
+release/connect.o
+release/main.o
+release/mainwindow.o
+release/udp_handshake.o
+release/udp_thread.o
+release/qrc_resource.o
+release/moc_mainwindow.o
+release/moc_udp_thread.o
